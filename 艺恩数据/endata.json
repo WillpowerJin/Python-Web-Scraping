@@ -1,0 +1,283 @@
+{
+    "Status": 1,
+    "Msg": "",
+    "Data": {
+        "Table": [
+            {
+                "Movieid": 713237,
+                "MovieName": "满江红",
+                "Genre_Main": "剧情",
+                "BoxOffice": 454589,
+                "AvgPrice": 50,
+                "AvgPeoPle": 24.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-01-22",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/1A/91/wKgASmP0PNyAePQnAACGBRqUkzk477.jpg"
+            },
+            {
+                "Movieid": 704382,
+                "MovieName": "流浪地球2",
+                "Genre_Main": "科幻",
+                "BoxOffice": 403027,
+                "AvgPrice": 51,
+                "AvgPeoPle": 21.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-01-22",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/33/09/wKgASWO0_n6ASaejAABnQtphcfQ757.jpg"
+            },
+            {
+                "Movieid": 704384,
+                "MovieName": "孤注一掷",
+                "Genre_Main": "剧情",
+                "BoxOffice": 369325,
+                "AvgPrice": 41,
+                "AvgPeoPle": 21.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-08-08",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/1D/A2/wKgASmSvlA2AE9QpAAB9JebvVak684.jpg"
+            },
+            {
+                "Movieid": 733914,
+                "MovieName": "消失的她",
+                "Genre_Main": "剧情",
+                "BoxOffice": 352652,
+                "AvgPrice": 42,
+                "AvgPeoPle": 21.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-06-22",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/1A/24/wKgASmPiFfWAGAreAABfIrAVixw254.jpg"
+            },
+            {
+                "Movieid": 673139,
+                "MovieName": "封神第一部：朝歌风云",
+                "Genre_Main": "动作",
+                "BoxOffice": 255032,
+                "AvgPrice": 43,
+                "AvgPeoPle": 18.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-07-20",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/1C/94/wKgASmR-l3-AA230AACM93QVQTI398.jpg"
+            },
+            {
+                "Movieid": 706149,
+                "MovieName": "八角笼中",
+                "Genre_Main": "剧情",
+                "BoxOffice": 220783,
+                "AvgPrice": 41,
+                "AvgPeoPle": 18.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-07-06",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/1B/7E/wKgASmQ_kOyAAlM1AABog_eCTOM873.jpg"
+            },
+            {
+                "Movieid": 716119,
+                "MovieName": "长安三万里",
+                "Genre_Main": "动画",
+                "BoxOffice": 181032,
+                "AvgPrice": 41,
+                "AvgPeoPle": 19.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-07-08",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/36/E2/wKgASWRA5EWAIN99AABIx7Smm5s339.jpg"
+            },
+            {
+                "Movieid": 733627,
+                "MovieName": "熊出没·伴我“熊芯”",
+                "Genre_Main": "动画",
+                "BoxOffice": 149594,
+                "AvgPrice": 46,
+                "AvgPeoPle": 19.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-01-22",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/19/01/wKgAS2OAQmGAHCC0AABqey50FSc229.jpg"
+            },
+            {
+                "Movieid": 710253,
+                "MovieName": "人生路不熟",
+                "Genre_Main": "喜剧",
+                "BoxOffice": 118561,
+                "AvgPrice": 41,
+                "AvgPeoPle": 9.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-04-28",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/33/E4/wKgASWPUhfaAKruQAACJe9lGFyc843.jpg"
+            },
+            {
+                "Movieid": 682200,
+                "MovieName": "速度与激情10",
+                "Genre_Main": "动作",
+                "BoxOffice": 98540,
+                "AvgPrice": 38,
+                "AvgPeoPle": 9.0,
+                "Area": "美国",
+                "ReleaseTime": "2023-05-17",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/37/96/wKgASWRcUPuAGaCRAABtHaM78zs214.jpg"
+            },
+            {
+                "Movieid": 707469,
+                "MovieName": "无名",
+                "Genre_Main": "剧情",
+                "BoxOffice": 93158,
+                "AvgPrice": 52,
+                "AvgPeoPle": 17.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-01-22",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/19/76/wKgAS2OzmWeAVS6-AAAwvP6xOMc550.jpg"
+            },
+            {
+                "Movieid": 640938,
+                "MovieName": "深海",
+                "Genre_Main": "动画",
+                "BoxOffice": 91976,
+                "AvgPrice": 47,
+                "AvgPeoPle": 11.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-01-22",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/32/D3/wKgASWOzm-uAX8TRAAB_ggpRqQc467.jpg"
+            },
+            {
+                "Movieid": 708791,
+                "MovieName": "热烈",
+                "Genre_Main": "剧情",
+                "BoxOffice": 90333,
+                "AvgPrice": 41,
+                "AvgPeoPle": 15.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-07-28",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/1B/51/wKgASmQ2J36AUmI2AAB4HUJ2pPM869.jpg"
+            },
+            {
+                "Movieid": 707476,
+                "MovieName": "长空之王",
+                "Genre_Main": "剧情",
+                "BoxOffice": 85033,
+                "AvgPrice": 42,
+                "AvgPeoPle": 10.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-04-28",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/37/0E/wKgASWREm22ATiiAAABzVaZzV_Q209.jpg"
+            },
+            {
+                "Movieid": 703564,
+                "MovieName": "巨齿鲨2：深渊",
+                "Genre_Main": "动作",
+                "BoxOffice": 84174,
+                "AvgPrice": 42,
+                "AvgPeoPle": 14.0,
+                "Area": "美国/中国",
+                "ReleaseTime": "2023-08-04",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/37/95/wKgASWRbQx6ABpWPAABKi5_Cuv8830.jpg"
+            },
+            {
+                "Movieid": 735685,
+                "MovieName": "铃芽之旅",
+                "Genre_Main": "动画",
+                "BoxOffice": 80816,
+                "AvgPrice": 33,
+                "AvgPeoPle": 9.0,
+                "Area": "日本",
+                "ReleaseTime": "2023-03-24",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/1A/59/wKgAS2PjeDOAYxxKAABjQfdRjCw982.jpg"
+            },
+            {
+                "Movieid": 612244,
+                "MovieName": "阿凡达：水之道",
+                "Genre_Main": "动作",
+                "BoxOffice": 74333,
+                "AvgPrice": 46,
+                "AvgPeoPle": 7.0,
+                "Area": "美国",
+                "ReleaseTime": "2022-12-16",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/19/01/wKgASmN-2KiACKFgAABrWcH2olc034.jpg"
+            },
+            {
+                "Movieid": 707140,
+                "MovieName": "保你平安",
+                "Genre_Main": "剧情",
+                "BoxOffice": 70096,
+                "AvgPrice": 42,
+                "AvgPeoPle": 6.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-03-10",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/1A/C1/wKgASmQFhbCAahqOAAB1uaxQRuU318.jpg"
+            },
+            {
+                "Movieid": 734942,
+                "MovieName": "灌篮高手",
+                "Genre_Main": "动画",
+                "BoxOffice": 66018,
+                "AvgPrice": 36,
+                "AvgPeoPle": 9.0,
+                "Area": "日本",
+                "ReleaseTime": "2023-04-20",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/1B/95/wKgASmRE-42APxhLAABpGPbPrOI811.jpg"
+            },
+            {
+                "Movieid": 708181,
+                "MovieName": "变形金刚：超能勇士崛起",
+                "Genre_Main": "科幻",
+                "BoxOffice": 65602,
+                "AvgPrice": 37,
+                "AvgPeoPle": 9.0,
+                "Area": "美国",
+                "ReleaseTime": "2023-06-09",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/3B/23/wKgASWSwsyKASNnOAABxisnlr7E123.jpg"
+            },
+            {
+                "Movieid": 736126,
+                "MovieName": "银河护卫队3",
+                "Genre_Main": "动作",
+                "BoxOffice": 60639,
+                "AvgPrice": 39,
+                "AvgPeoPle": 8.0,
+                "Area": "美国",
+                "ReleaseTime": "2023-05-05",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/37/5C/wKgASWRN452APiy8AABk9X6vdPc603.jpg"
+            },
+            {
+                "Movieid": 695038,
+                "MovieName": "学爸",
+                "Genre_Main": "剧情",
+                "BoxOffice": 56588,
+                "AvgPrice": 41,
+                "AvgPeoPle": 11.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-08-18",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/1B/7E/wKgASmQ_k6iAUjkkAABcdXpeQF8146.jpg"
+            },
+            {
+                "Movieid": 707131,
+                "MovieName": "我爱你！",
+                "Genre_Main": "剧情",
+                "BoxOffice": 42846,
+                "AvgPrice": 41,
+                "AvgPeoPle": 10.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-06-21",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/1A/79/wKgASmPtrqeAEkErAACPt3njDLQ913.jpg"
+            },
+            {
+                "Movieid": 708388,
+                "MovieName": "交换人生",
+                "Genre_Main": "喜剧",
+                "BoxOffice": 39360,
+                "AvgPrice": 50,
+                "AvgPeoPle": 13.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-01-22",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/33/09/wKgASWO0_JuAKwrxAAB5qokQC5w702.jpg"
+            },
+            {
+                "Movieid": 708001,
+                "MovieName": "茶啊二中",
+                "Genre_Main": "动画",
+                "BoxOffice": 38043,
+                "AvgPrice": 40,
+                "AvgPeoPle": 11.0,
+                "Area": "中国",
+                "ReleaseTime": "2023-07-14",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/1C/95/wKgASmR_6rGAZteGAABVBQTVTNo137.jpg"
+            }
+        ]
+    }
+}

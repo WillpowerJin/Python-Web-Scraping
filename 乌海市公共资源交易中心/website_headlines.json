@@ -1,0 +1,319 @@
+{
+    "took": 2,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 34,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "34676173",
+                "_score": null,
+                "_source": {
+                    "pathName": "网站头条",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582023/08/10/87b80963-36ed-4174-8e4d-8a37f5220283",
+                    "articleId": 34676173,
+                    "publishDate": 1689567678000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "市公共资源交易中心开展领导干部“七一”讲党课活动",
+                    "url": "/PurchaseAdvisory/MostImportant/34676173.html"
+                },
+                "sort": [
+                    1689567678000,
+                    34676173
+                ]
+            },
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "34676088",
+                "_score": null,
+                "_source": {
+                    "pathName": "网站头条",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582023/08/10/56feba8c-2e1c-4df4-b7af-f17195ca4835",
+                    "articleId": 34676088,
+                    "publishDate": 1689308224000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "市公共资源交易中心召开2023年上半年落实党风廉政建设责任制暨“一岗双责”分级抽查述责＋政治谈话会",
+                    "url": "/PurchaseAdvisory/MostImportant/34676088.html"
+                },
+                "sort": [
+                    1689308224000,
+                    34676088
+                ]
+            },
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "34642588",
+                "_score": null,
+                "_source": {
+                    "pathName": "网站头条",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582023/08/08/496fdcbd-a2af-45e3-904b-1631e70ac197",
+                    "articleId": 34642588,
+                    "publishDate": 1688979003000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "乌海市成功举办2023年度评标评审专家业务培训会",
+                    "url": "/PurchaseAdvisory/MostImportant/34642588.html"
+                },
+                "sort": [
+                    1688979003000,
+                    34642588
+                ]
+            },
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "34675981",
+                "_score": null,
+                "_source": {
+                    "pathName": "网站头条",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582023/08/10/8bee8661-d245-43df-9dfa-f20519e37483",
+                    "articleId": 34675981,
+                    "publishDate": 1686888733000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "市公共资源交易中心传达学习习近平总书记在内蒙古考察时的重要讲话和重要指示精神",
+                    "url": "/PurchaseAdvisory/MostImportant/34675981.html"
+                },
+                "sort": [
+                    1686888733000,
+                    34675981
+                ]
+            },
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "34675817",
+                "_score": null,
+                "_source": {
+                    "pathName": "网站头条",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582023/08/10/65fd1568-44d8-4647-841a-713522a7a32f",
+                    "articleId": 34675817,
+                    "publishDate": 1677470811000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "乌海市公共资源交易中心获评多个全国性行业奖项",
+                    "url": "/PurchaseAdvisory/MostImportant/34675817.html"
+                },
+                "sort": [
+                    1677470811000,
+                    34675817
+                ]
+            },
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "34675368",
+                "_score": null,
+                "_source": {
+                    "pathName": "网站头条",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582023/08/10/b65ad7e6-4906-4c79-a77c-570255310590",
+                    "articleId": 34675368,
+                    "publishDate": 1676347183000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "市公共资源交易中心召开2022年度民主生活会",
+                    "url": "/PurchaseAdvisory/MostImportant/34675368.html"
+                },
+                "sort": [
+                    1676347183000,
+                    34675368
+                ]
+            },
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "34674935",
+                "_score": null,
+                "_source": {
+                    "pathName": "网站头条",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582023/08/10/5584ee31-fd9b-4e39-ba3f-c897f5e415e7",
+                    "articleId": 34674935,
+                    "publishDate": 1675395547000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "乌海市公共资源交易中心召开全体干部职工会议",
+                    "url": "/PurchaseAdvisory/MostImportant/34674935.html"
+                },
+                "sort": [
+                    1675395547000,
+                    34674935
+                ]
+            },
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "19793841",
+                "_score": null,
+                "_source": {
+                    "pathName": "采购资讯|网站头条",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582022/09/23/32a13dda-cc6a-42e7-b15f-adaca3a30b3a",
+                    "articleId": 19793841,
+                    "publishDate": 1663919869000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "市公共资源交易中心领导班子成员开展专题研讨",
+                    "url": "/PurchaseAdvisory/MostImportant/19793841.html"
+                },
+                "sort": [
+                    1663919869000,
+                    19793841
+                ]
+            },
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "19793440",
+                "_score": null,
+                "_source": {
+                    "pathName": "采购资讯|网站头条",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582022/09/23/3f6949cb-2dc5-4805-ab61-826e2e6a5ebd",
+                    "articleId": 19793440,
+                    "publishDate": 1663919590000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "市公共资源交易中心召开2022年第7次主任办公会",
+                    "url": "/PurchaseAdvisory/MostImportant/19793440.html"
+                },
+                "sort": [
+                    1663919590000,
+                    19793440
+                ]
+            },
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "15078165",
+                "_score": null,
+                "_source": {
+                    "pathName": "信息简报",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582022/04/22/ff54554f-1fb8-4746-afa7-a66358bef3ea",
+                    "districtName": "",
+                    "articleId": 15078165,
+                    "publishDate": 1650439573000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "乌海市公共资源交易中心召开党内政治生活庸俗化交易化问题集中治理动员部署会",
+                    "url": "/OpennessOfGovAndFin/LegalDisclosure/Otherlegalinformation/Informationbriefing/15078165.html"
+                },
+                "sort": [
+                    1650439573000,
+                    15078165
+                ]
+            },
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "14550769",
+                "_score": null,
+                "_source": {
+                    "pathName": "信息简报",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582022/04/07/a060a9c8-69b5-4b7b-bd93-1abdd56917c0",
+                    "districtName": "",
+                    "articleId": 14550769,
+                    "publishDate": 1648430734000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "市公共资源交易中心开展“聚光亮灯转作风 提振干事促发展”主题党日活动",
+                    "url": "/OpennessOfGovAndFin/LegalDisclosure/Otherlegalinformation/Informationbriefing/14550769.html"
+                },
+                "sort": [
+                    1648430734000,
+                    14550769
+                ]
+            },
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "14551288",
+                "_score": null,
+                "_source": {
+                    "pathName": "信息简报",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582022/04/07/f7c41fe4-4697-48cc-99a0-9e48d89fcf20",
+                    "districtName": "",
+                    "articleId": 14551288,
+                    "publishDate": 1647826278000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "市委常委、副市长胡善顺调研市公共资源交易中心2022年重点工作情况",
+                    "url": "/OpennessOfGovAndFin/LegalDisclosure/Otherlegalinformation/Informationbriefing/14551288.html"
+                },
+                "sort": [
+                    1647826278000,
+                    14551288
+                ]
+            },
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "13999884",
+                "_score": null,
+                "_source": {
+                    "pathName": "网站头条",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582022/03/17/e121d362-2c73-49f3-aff9-ecc0ba8f70d4",
+                    "articleId": 13999884,
+                    "publishDate": 1646034859000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "乌海市公共资源交易中心机关党支部开展“严明纪律规矩 深化作风建设”主题党日活动",
+                    "url": "/PurchaseAdvisory/MostImportant/13999884.html"
+                },
+                "sort": [
+                    1646034859000,
+                    13999884
+                ]
+            },
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "11947573",
+                "_score": null,
+                "_source": {
+                    "pathName": "信息简报",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582021/12/29/27031342-4590-4072-b969-e9a48d6f370f",
+                    "articleId": 11947573,
+                    "publishDate": 1639383766000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "2021年度公共资源交易管理工作联席会议召开",
+                    "url": "/OpennessOfGovAndFin/LegalDisclosure/Otherlegalinformation/Informationbriefing/11947573.html"
+                },
+                "sort": [
+                    1639383766000,
+                    11947573
+                ]
+            },
+            {
+                "_index": "prod-articles-58",
+                "_type": "prod-article-58",
+                "_id": "9564306",
+                "_score": null,
+                "_source": {
+                    "pathName": "信息简报",
+                    "cover": "https://purchase-site-cdn.zcycdn.com/site_group/prod/site_582021/10/15/a8e9bd3a-8363-489a-95e0-27354dd4e706",
+                    "articleId": 9564306,
+                    "publishDate": 1634203328000,
+                    "invalid": 0,
+                    "siteId": 58,
+                    "title": "乌海市公共资源交易中心召开重点工作推进会",
+                    "url": "/OpennessOfGovAndFin/LegalDisclosure/Otherlegalinformation/Informationbriefing/9564306.html"
+                },
+                "sort": [
+                    1634203328000,
+                    9564306
+                ]
+            }
+        ]
+    }
+}
