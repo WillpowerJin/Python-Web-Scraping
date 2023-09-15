@@ -55,11 +55,11 @@
                     "company_name": ""
                 }
             ],
-            "heat_num": "7272"
+            "heat_num": "8184"
         },
         {
             "product": "智元机器人",
-            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202304/product6440c92c0b8df459724585.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1696675670&Signature=z4axz0%2FZ%2BGVF0Yab3VhleiLIS0I%3D",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202304/product6440c92c0b8df459724585.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1697340377&Signature=z1EHiTlPT4WoRK49RpZc8gDFrxw%3D",
             "hangye1": "人工智能",
             "yewu": "人形机器人研发商",
             "province": "上海市",
@@ -91,7 +91,29 @@
                     "company_name": "北京蓝驰禾创管理咨询有限公司"
                 }
             ],
-            "heat_num": "7050"
+            "heat_num": "8142"
+        },
+        {
+            "product": "智谱AI",
+            "icon": "https://img1.qimingpian.cn/uploadImg/202209/63310718aab85.jpeg",
+            "hangye1": "人工智能",
+            "yewu": "AI知识智能技术开发商",
+            "province": "北京市",
+            "lunci": "B+轮",
+            "jieduan": "B+轮",
+            "money": "数亿人民币",
+            "time": "2023.07.21",
+            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=398a9b05711e5643b6e812c48171c332&id=2bbbbb60d7d6aa3e82c9f62a478b1ba2",
+            "investor_info": [
+                {
+                    "investor": "美团战略投资部",
+                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=3a131d22fd6e5869b5123411fc28d434&id=8ca2c967dcbada0a03f84bb14c14f4ea",
+                    "invest_type_name": "独投",
+                    "invest_type": "4",
+                    "company_name": "北京三快科技有限公司"
+                }
+            ],
+            "heat_num": "7224"
         },
         {
             "product": "拓烯科技",
@@ -176,29 +198,7 @@
                     "company_name": "宁波蓝郡投资管理有限公司"
                 }
             ],
-            "heat_num": "5904"
-        },
-        {
-            "product": "智谱AI",
-            "icon": "https://img1.qimingpian.cn/uploadImg/202209/63310718aab85.jpeg",
-            "hangye1": "人工智能",
-            "yewu": "AI知识智能技术开发商",
-            "province": "北京市",
-            "lunci": "B+轮",
-            "jieduan": "B+轮",
-            "money": "数亿人民币",
-            "time": "2023.07.21",
-            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=398a9b05711e5643b6e812c48171c332&id=2bbbbb60d7d6aa3e82c9f62a478b1ba2",
-            "investor_info": [
-                {
-                    "investor": "美团战略投资部",
-                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=3a131d22fd6e5869b5123411fc28d434&id=8ca2c967dcbada0a03f84bb14c14f4ea",
-                    "invest_type_name": "独投",
-                    "invest_type": "4",
-                    "company_name": "北京三快科技有限公司"
-                }
-            ],
-            "heat_num": "5718"
+            "heat_num": "6444"
         },
         {
             "product": "中科时代",
@@ -227,7 +227,7 @@
                     "company_name": "深圳中科先进产业私募股权基金管理有限公司"
                 }
             ],
-            "heat_num": "5274"
+            "heat_num": "5970"
         },
         {
             "product": "帕西尼感知科技",
@@ -249,7 +249,7 @@
                     "company_name": "北京光跃私募基金管理有限公司"
                 }
             ],
-            "heat_num": "4620"
+            "heat_num": "5106"
         },
         {
             "product": "奕成科技",
@@ -369,7 +369,7 @@
                     "company_name": "成都鼎兴量子投资管理有限公司"
                 }
             ],
-            "heat_num": "4080"
+            "heat_num": "4452"
         },
         {
             "product": "不停科技",
@@ -440,7 +440,29 @@
                     "company_name": ""
                 }
             ],
-            "heat_num": "3780"
+            "heat_num": "4212"
+        },
+        {
+            "product": "滴灌通",
+            "icon": "https://img1.qimingpian.cn/uploadImg/202308/64c9bcfc64cf6.png",
+            "hangye1": "金融",
+            "yewu": "创新投资金融科技平台",
+            "province": "海南省",
+            "lunci": "C轮",
+            "jieduan": "C轮",
+            "money": "4.58亿美元",
+            "time": "2023.08.02",
+            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=fb3b6133bcf55c559c20691f82b2885f&id=43a0d94911244fc35eb32c6805a134c2",
+            "investor_info": [
+                {
+                    "investor": "未披露",
+                    "detail": "",
+                    "invest_type_name": "独投",
+                    "invest_type": "4",
+                    "company_name": ""
+                }
+            ],
+            "heat_num": "4176"
         },
         {
             "product": "微崇半导体",
@@ -490,29 +512,7 @@
                     "company_name": "上海临芯投资管理有限公司"
                 }
             ],
-            "heat_num": "3738"
-        },
-        {
-            "product": "滴灌通",
-            "icon": "https://img1.qimingpian.cn/uploadImg/202308/64c9bcfc64cf6.png",
-            "hangye1": "金融",
-            "yewu": "创新投资金融科技平台",
-            "province": "海南省",
-            "lunci": "C轮",
-            "jieduan": "C轮",
-            "money": "4.58亿美元",
-            "time": "2023.08.02",
-            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=fb3b6133bcf55c559c20691f82b2885f&id=43a0d94911244fc35eb32c6805a134c2",
-            "investor_info": [
-                {
-                    "investor": "未披露",
-                    "detail": "",
-                    "invest_type_name": "独投",
-                    "invest_type": "4",
-                    "company_name": ""
-                }
-            ],
-            "heat_num": "3540"
+            "heat_num": "4104"
         },
         {
             "product": "海辰储能",
@@ -653,7 +653,29 @@
                     "company_name": "珠海横琴日初企业管理有限公司"
                 }
             ],
-            "heat_num": "3480"
+            "heat_num": "4008"
+        },
+        {
+            "product": "粒界科技",
+            "icon": "https://img1.qimingpian.cn/uploadImg/202308/64e6f66d09146.png",
+            "hangye1": "VR/AR",
+            "yewu": "计算机图形引擎技术提供商",
+            "province": "上海市",
+            "lunci": "B++轮",
+            "jieduan": "B++轮",
+            "money": "千万级美元",
+            "time": "2023.08.24",
+            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=58451d26f5aa56daa914e3439725e857&id=11c9cd4fa1cdaf146edb3281939bfb8d",
+            "investor_info": [
+                {
+                    "investor": "比亚迪",
+                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=356b9d98a4d154748c638dae1d157ee6&id=14fbd4ff69ed85f2730aa0c7f8e5e300",
+                    "invest_type_name": "领投",
+                    "invest_type": "1",
+                    "company_name": "比亚迪股份有限公司"
+                }
+            ],
+            "heat_num": "3822"
         },
         {
             "product": "中贝能源",
@@ -710,123 +732,29 @@
                     "company_name": "深圳市亚讯资本管理有限公司"
                 }
             ],
-            "heat_num": "3474"
+            "heat_num": "3780"
         },
         {
-            "product": "粒界科技",
-            "icon": "https://img1.qimingpian.cn/uploadImg/202308/64e6f66d09146.png",
-            "hangye1": "VR/AR",
-            "yewu": "计算机图形引擎技术提供商",
-            "province": "上海市",
-            "lunci": "B++轮",
-            "jieduan": "B++轮",
-            "money": "千万级美元",
-            "time": "2023.08.24",
-            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=58451d26f5aa56daa914e3439725e857&id=11c9cd4fa1cdaf146edb3281939bfb8d",
-            "investor_info": [
-                {
-                    "investor": "比亚迪",
-                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=356b9d98a4d154748c638dae1d157ee6&id=14fbd4ff69ed85f2730aa0c7f8e5e300",
-                    "invest_type_name": "领投",
-                    "invest_type": "1",
-                    "company_name": "比亚迪股份有限公司"
-                }
-            ],
-            "heat_num": "3390"
-        },
-        {
-            "product": "生数科技",
-            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202306/product648faaec4ddbb816659893.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1696675670&Signature=kZPB%2FAC%2Bc%2FnvihjfzPvs2mzdEvw%3D",
+            "product": "MiniMax",
+            "icon": "https://img1.qimingpian.cn/uploadImg/202303/6420e78c45e47.png",
             "hangye1": "人工智能",
-            "yewu": "产业级多模态大模型研发商",
-            "province": "北京市",
-            "lunci": "天使+",
-            "jieduan": "天使+",
-            "money": "数千万人民币",
-            "time": "2023.08.10",
-            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=ff3d053f92ed5ee0b1bacb8b03436a0a&id=31144cf9598d3725aaa50a29a6bc4c69",
+            "yewu": "多模态AI大模型领域研发商",
+            "province": "上海市",
+            "lunci": "A轮",
+            "jieduan": "A轮",
+            "money": "超2.5亿美元",
+            "time": "2023.06.01",
+            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=45e52b808af15f5b8725b18de3f0be4f&id=8458047636892cd8ba07005851fe8b45",
             "investor_info": [
                 {
-                    "investor": "锦秋基金",
-                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=349f34fdf7135cb780e69edb50303703&id=1514f089918272a1339895dbc16616cf",
+                    "investor": "腾讯投资",
+                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=8577e8587d5d5be8809e3d26a42419ac&id=8fc80fa3b229f9160f1186fb428e1dc7",
                     "invest_type_name": "独投",
                     "invest_type": "4",
-                    "company_name": "北京锦秋私募基金管理有限公司"
+                    "company_name": "深圳市腾讯计算机系统有限公司"
                 }
             ],
-            "heat_num": "3384"
-        },
-        {
-            "product": "乘风航空",
-            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202211/product638198a2de6b3384253588.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1696675670&Signature=MlnVkCL2Ofnrpg6t4urxYc7sAc4%3D",
-            "hangye1": "先进制造",
-            "yewu": "航空发动机热端关键部件加工商",
-            "province": "江苏省",
-            "lunci": "Pre-A轮",
-            "jieduan": "Pre-A轮",
-            "money": "千万级人民币",
-            "time": "2023.08.10",
-            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=904f1fc7633b5190a9670dadd020af17&id=4197442d12c78ba2c8a5c37b17789db7",
-            "investor_info": [
-                {
-                    "investor": "金浦投资",
-                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=c76f1f9b9ba453dd8c1d2cf93c2be7e6&id=1cf890542caae2dd5ee6a3de33e6aaaa",
-                    "invest_type_name": "领投",
-                    "invest_type": "1",
-                    "company_name": "金浦产业投资基金管理有限公司"
-                }
-            ],
-            "heat_num": "3378"
-        },
-        {
-            "product": "大秦数能",
-            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202205/product62945fba9de57653952875.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1696675670&Signature=EbCEED%2FJSQAGdgSgWWMNoM14qBQ%3D",
-            "hangye1": "生产制造",
-            "yewu": "锂电储能解决方案提供商",
-            "province": "江苏省",
-            "lunci": "C轮",
-            "jieduan": "C轮",
-            "money": "数十亿人民币",
-            "time": "2023.07.26",
-            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=5b274221696c54769acd260ae0047788&id=2d16740e26fc63ef905bddf632a3b234",
-            "investor_info": [
-                {
-                    "investor": "中金资本",
-                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=121f6cbbf478599684010fa118b0755a&id=d58470a1934c32443eed0dcf6d41ad62",
-                    "invest_type_name": "领投",
-                    "invest_type": "1",
-                    "company_name": "中金资本运营有限公司"
-                },
-                {
-                    "investor": "L Catterton",
-                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=cd94ff87659f5b0b9b1466f90c4b953b&id=a72b444861c23c1fcbb26eebe2a9ef44",
-                    "invest_type_name": "跟投",
-                    "invest_type": "2",
-                    "company_name": ""
-                },
-                {
-                    "investor": "锦秋基金",
-                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=349f34fdf7135cb780e69edb50303703&id=1514f089918272a1339895dbc16616cf",
-                    "invest_type_name": "跟投",
-                    "invest_type": "2",
-                    "company_name": "北京锦秋私募基金管理有限公司"
-                },
-                {
-                    "investor": "神骐资本",
-                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=e8741b8857d556999014514d3e24da95&id=bcb37d0c1163914194c675c5e22633d2",
-                    "invest_type_name": "跟投",
-                    "invest_type": "2",
-                    "company_name": "天津神奇汇股权投资管理有限公司"
-                },
-                {
-                    "investor": "青蒿资本",
-                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=6d9d4613567c54af8eb3e0dfbbe2927f&id=ce8980e03aaa1703c0203a38a32f3ffc",
-                    "invest_type_name": "跟投",
-                    "invest_type": "2",
-                    "company_name": "嘉兴青蒿投资有限公司"
-                }
-            ],
-            "heat_num": "3366"
+            "heat_num": "3774"
         },
         {
             "product": "中科富海",
@@ -897,7 +825,7 @@
                     "company_name": "中科创星科技投资有限公司"
                 }
             ],
-            "heat_num": "3336"
+            "heat_num": "3744"
         },
         {
             "product": "一道新能",
@@ -975,52 +903,146 @@
                     "company_name": "北京朗玛峰创业投资管理有限公司"
                 }
             ],
-            "heat_num": "3288"
+            "heat_num": "3738"
         },
         {
-            "product": "领存技术",
-            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e11e2a3e6fd4280854333.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1696675670&Signature=mbdUFdtYWd5L4bVsd4pHZmeSkmw%3D",
-            "hangye1": "硬件",
-            "yewu": "专业存储产品供应商",
-            "province": "广东省",
-            "lunci": "A轮",
-            "jieduan": "A轮",
-            "money": "5000万人民币",
-            "time": "2020.04.27",
-            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=3150f8b131875a8f8d68ebc5f1685683&id=e1e8dc5c6b0a1a6d7719a9b014f41c21",
-            "investor_info": [
-                {
-                    "investor": "许昌魏都投资总公司",
-                    "invest_type_name": "独投",
-                    "invest_type": "4",
-                    "company_name": ""
-                }
-            ],
-            "heat_num": "3234"
-        },
-        {
-            "product": "MiniMax",
-            "icon": "https://img1.qimingpian.cn/uploadImg/202303/6420e78c45e47.png",
+            "product": "生数科技",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202306/product648faaec4ddbb816659893.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1697340377&Signature=rOIwPPcEbG4ZN1FGDiY%2Busy7gV0%3D",
             "hangye1": "人工智能",
-            "yewu": "多模态AI大模型领域研发商",
-            "province": "上海市",
-            "lunci": "A轮",
-            "jieduan": "A轮",
-            "money": "超2.5亿美元",
-            "time": "2023.06.01",
-            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=45e52b808af15f5b8725b18de3f0be4f&id=8458047636892cd8ba07005851fe8b45",
+            "yewu": "产业级多模态大模型研发商",
+            "province": "北京市",
+            "lunci": "天使+",
+            "jieduan": "天使+",
+            "money": "数千万人民币",
+            "time": "2023.08.10",
+            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=ff3d053f92ed5ee0b1bacb8b03436a0a&id=31144cf9598d3725aaa50a29a6bc4c69",
             "investor_info": [
                 {
-                    "investor": "腾讯投资",
-                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=8577e8587d5d5be8809e3d26a42419ac&id=8fc80fa3b229f9160f1186fb428e1dc7",
+                    "investor": "锦秋基金",
+                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=349f34fdf7135cb780e69edb50303703&id=1514f089918272a1339895dbc16616cf",
                     "invest_type_name": "独投",
                     "invest_type": "4",
-                    "company_name": "深圳市腾讯计算机系统有限公司"
+                    "company_name": "北京锦秋私募基金管理有限公司"
                 }
             ],
-            "heat_num": "3162"
+            "heat_num": "3660"
+        },
+        {
+            "product": "乘风航空",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202211/product638198a2de6b3384253588.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1697340377&Signature=WIcQ7oD7%2FJbQZCw4WfoXa2MslvM%3D",
+            "hangye1": "先进制造",
+            "yewu": "航空发动机热端关键部件加工商",
+            "province": "江苏省",
+            "lunci": "Pre-A轮",
+            "jieduan": "Pre-A轮",
+            "money": "千万级人民币",
+            "time": "2023.08.10",
+            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=904f1fc7633b5190a9670dadd020af17&id=4197442d12c78ba2c8a5c37b17789db7",
+            "investor_info": [
+                {
+                    "investor": "金浦投资",
+                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=c76f1f9b9ba453dd8c1d2cf93c2be7e6&id=1cf890542caae2dd5ee6a3de33e6aaaa",
+                    "invest_type_name": "领投",
+                    "invest_type": "1",
+                    "company_name": "金浦产业投资基金管理有限公司"
+                }
+            ],
+            "heat_num": "3624"
+        },
+        {
+            "product": "大秦数能",
+            "icon": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202205/product62945fba9de57653952875.png?x-oss-process=style%2Fsmall&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1697340377&Signature=Fx5tncS1xwJutQqlUeyYi66Jg4s%3D",
+            "hangye1": "生产制造",
+            "yewu": "锂电储能解决方案提供商",
+            "province": "江苏省",
+            "lunci": "C轮",
+            "jieduan": "C轮",
+            "money": "数十亿人民币",
+            "time": "2023.07.26",
+            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=5b274221696c54769acd260ae0047788&id=2d16740e26fc63ef905bddf632a3b234",
+            "investor_info": [
+                {
+                    "investor": "中金资本",
+                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=121f6cbbf478599684010fa118b0755a&id=d58470a1934c32443eed0dcf6d41ad62",
+                    "invest_type_name": "领投",
+                    "invest_type": "1",
+                    "company_name": "中金资本运营有限公司"
+                },
+                {
+                    "investor": "L Catterton 路威凯腾",
+                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=cd94ff87659f5b0b9b1466f90c4b953b&id=a72b444861c23c1fcbb26eebe2a9ef44",
+                    "invest_type_name": "跟投",
+                    "invest_type": "2",
+                    "company_name": ""
+                },
+                {
+                    "investor": "锦秋基金",
+                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=349f34fdf7135cb780e69edb50303703&id=1514f089918272a1339895dbc16616cf",
+                    "invest_type_name": "跟投",
+                    "invest_type": "2",
+                    "company_name": "北京锦秋私募基金管理有限公司"
+                },
+                {
+                    "investor": "神骐资本",
+                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=e8741b8857d556999014514d3e24da95&id=bcb37d0c1163914194c675c5e22633d2",
+                    "invest_type_name": "跟投",
+                    "invest_type": "2",
+                    "company_name": "天津神奇汇股权投资管理有限公司"
+                },
+                {
+                    "investor": "青蒿资本",
+                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=6d9d4613567c54af8eb3e0dfbbe2927f&id=ce8980e03aaa1703c0203a38a32f3ffc",
+                    "invest_type_name": "跟投",
+                    "invest_type": "2",
+                    "company_name": "嘉兴青蒿投资有限公司"
+                }
+            ],
+            "heat_num": "3588"
+        },
+        {
+            "product": "光本位",
+            "icon": "https://img1.qimingpian.cn/uploadImg/202307/64bdccf331015.png",
+            "hangye1": "先进制造",
+            "yewu": "光子计算芯片研发商",
+            "province": "江苏省",
+            "lunci": "天使轮",
+            "jieduan": "天使轮",
+            "money": "超5000万人民币",
+            "time": "2023.07.24",
+            "detail": "http://vip.qimingpian.cn/#/detailcom?src=magic&ticket=77c4325bac3f5fd0be3226d688956289&id=b2f1d3c9081dd3c8631c8f3ae2608d80",
+            "investor_info": [
+                {
+                    "investor": "峰瑞资本",
+                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=0e7127557d725f179524efc53e7283a6&id=94c3e9e7562b39a81075690cdfcf02d5",
+                    "invest_type_name": "合投",
+                    "invest_type": "3",
+                    "company_name": "上海自友投资管理有限公司"
+                },
+                {
+                    "investor": "小苗朗程",
+                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=8f6c2d4f9c325e008043060ef4d7e7b2&id=2a42658e2e8123467125092b38105e43",
+                    "invest_type_name": "合投",
+                    "invest_type": "3",
+                    "company_name": "上海小苗朗程投资管理有限公司"
+                },
+                {
+                    "investor": "奇绩创坛",
+                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=ae61f4aa346154bbbccba0f31b1b142c&id=984c838baab05e26e259394ff10d9693",
+                    "invest_type_name": "合投",
+                    "invest_type": "3",
+                    "company_name": "奇绩创坛（北京）投资管理有限责任公司"
+                },
+                {
+                    "investor": "云启资本",
+                    "detail": "http://vip.qimingpian.cn/#/detailorg?src=magic&ticket=e1842f67a4705bb28b7aa57a5bd4b3af&id=13cb906cf2b988a2148484d39c406e9b",
+                    "invest_type_name": "合投",
+                    "invest_type": "3",
+                    "company_name": "上海云畔投资管理有限公司"
+                }
+            ],
+            "heat_num": "3372"
         }
     ],
     "count": "507237",
-    "type": ""
+    "type": "1"
 }
